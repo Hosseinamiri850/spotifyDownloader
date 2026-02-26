@@ -6,7 +6,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
 # 🎯 توکن ربات از BotFather
-TOKEN = "7671390733:AAF00FEhDUISyxjLLKxp-MBVz57EPGP_VP0"
+TOKEN = "YOUR-Token"
 
 # 📁 مسیر ذخیره فایل‌ها
 DOWNLOAD_DIR = "downloads"
